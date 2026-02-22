@@ -89,6 +89,4 @@ Xem gợi ý sách:
 5. Hệ thống tự động gợi ý sách dựa trên lịch sử mượn của bạn.
 
 ## Liên Hệ
-- Email: Hoangk91234@gmail.com
-- Website: http://hoangmelinh.io.vn:26602/
-- Facebook: Nguyễn Minh Hoàng
+- Email: clytusnguyen@gmail.com
